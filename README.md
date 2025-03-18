@@ -39,7 +39,7 @@ This repository includes:
 
 ## 📸 Architecture  
 ![FastAPI Backend Architecture](https://github.com/Codingworld786/PDF-Extraction-HUB/blob/main/Backend_Architecture.png
-![FastAPI Backend Architecture](https://github.com/Codingworld786/PDF-Extraction-HUB/raw/main/backend_interface.png)  
+  
 
 
 
