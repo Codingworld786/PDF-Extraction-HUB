@@ -1,7 +1,7 @@
 # 📄 Universal PDF Extraction & Comparison Toolkit 🚀  
 
 ## 📌 Overview  
-This repository brings together various PDF extraction tools—such as **pdfplumber, Doctr, DocuPanda, pdf2image, PyMuPDF, and more**—into a single platform.  
+This repository brings together various PDF extraction tools—such as **pdfplumber, Doctr, pdf2image, PyMuPDF, Marker, Extract Thinker, pptx2md, Tesseract and more**—into a single platform.  
 
 Our goal is to help developers **compare and evaluate the performance** of different PDF parsing solutions, **saving time and enhancing productivity**.  
 
@@ -57,14 +57,19 @@ pip install -r requirements.txt
 # Run the FastAPI server
 uvicorn app:app --reload
 
-🛠️ Supported Tools
-This project supports multiple PDF parsing libraries, including:
+## 🛠️ Supported Tools  
+This project integrates multiple PDF parsing libraries, allowing users to compare and evaluate their performance:  
 
-📌 pdfplumber – Best for extracting structured text and tables.
-📌 PyMuPDF (fitz) – Fast PDF processing and image extraction.
-📌 pdf2image – Converts PDFs into images.
-📌 Doctr – OCR-based extraction from scanned PDFs.
-📌 DocuPanda – AI-powered PDF parsing.
+📌 **pdfplumber** – Best for extracting structured text and tables.  
+📌 **PyMuPDF (fitz)** – Fast PDF processing, text, and image extraction.  
+📌 **pdf2image** – Converts PDFs into high-quality images.  
+📌 **Doctr** – OCR-based extraction from scanned PDFs using deep learning.  
+📌 **Marker** – AI-powered document extraction and annotation.  
+📌 **Extract Thinker** – Intelligent document analysis and extraction.  
+📌 **pptx2md** – Converts PowerPoint presentations into markdown-friendly text.  
+📌 **Tesseract OCR** – Open-source OCR for extracting text from scanned PDFs.  
+📌 **And more...** – Expandable to include additional parsing tools.  
+
 
 📊 Performance Metrics
 We compare speed, accuracy, and robustness of different PDF extraction libraries through benchmark tests.
@@ -91,11 +96,6 @@ If you find this useful, don't forget to ⭐ star this repo to support the proje
 ✅ **Embedded image reference for FastAPI architecture**  
 
 ---
-
-### **Now, Just Add Your Image!**  
-Place your **`fastapi_architecture.png`** inside a folder named `images/` and GitHub will display it in the README automatically.  
-
-Let me know if you need any modifications! 🚀🔥
 
 
 
