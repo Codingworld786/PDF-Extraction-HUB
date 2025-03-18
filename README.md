@@ -42,6 +42,8 @@ This repository includes:
 
 ![streamlit Frontend Architecture](https://github.com/Codingworld786/PDF-Extraction-HUB/blob/main/frontend_2.png)
 
+![streamlit Frontend Architecture](https://github.com/Codingworld786/PDF-Extraction-HUB/blob/main/frontend_1.png)
+
   
 
 
