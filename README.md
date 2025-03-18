@@ -39,6 +39,9 @@ This repository includes:
 
 ## 📸 Architecture  
 ![FastAPI Backend Architecture](https://github.com/Codingworld786/PDF-Extraction-HUB/blob/main/Backend_Architecture.png
+
+![streamlit Frontend Architecture](https://github.com/Codingworld786/PDF-Extraction-HUB/blob/main/frontend_2.png)
+
   
 
 
