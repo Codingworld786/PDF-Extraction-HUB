@@ -25,6 +25,7 @@ This repository provides a **centralized framework** for testing and benchmarkin
 🔹 **Performance Comparison** – Evaluate speed, accuracy, and robustness across different tools.  
 🔹 **API-Driven PDF Parsing** – Integrate **FastAPI-based backend** solutions for seamless extraction.  
 
+
 ---
 
 ## ⚙️ How It Works  
@@ -52,3 +53,47 @@ pip install -r requirements.txt
 
 # Run the FastAPI server
 uvicorn app:app --reload
+
+🛠️ Supported Tools
+This project supports multiple PDF parsing libraries, including:
+
+📌 pdfplumber – Best for extracting structured text and tables.
+📌 PyMuPDF (fitz) – Fast PDF processing and image extraction.
+📌 pdf2image – Converts PDFs into images.
+📌 Doctr – OCR-based extraction from scanned PDFs.
+📌 DocuPanda – AI-powered PDF parsing.
+
+📊 Performance Metrics
+We compare speed, accuracy, and robustness of different PDF extraction libraries through benchmark tests.
+
+🔹 Speed: How quickly the tool processes PDFs.
+🔹 Accuracy: How well text and tables are extracted.
+🔹 OCR Efficiency: Performance on scanned PDFs and handwritten text.
+
+💡 Contributing
+Contributions are welcome! Feel free to open issues, suggest improvements, or add new PDF parsing tools.
+
+📜 License
+This project is licensed under the MIT License.
+
+⭐ Star This Repository!
+If you find this useful, don't forget to ⭐ star this repo to support the project!
+
+
+### **How This Looks Better:**  
+✅ **Clear sectioning with headings (`#`, `##`)**  
+✅ **Emojis for visual appeal**  
+✅ **Bullet points (`-`), checkmarks (`✅`), and highlights (`📌`)**  
+✅ **Code blocks for installation and API usage**  
+✅ **Embedded image reference for FastAPI architecture**  
+
+---
+
+### **Now, Just Add Your Image!**  
+Place your **`fastapi_architecture.png`** inside a folder named `images/` and GitHub will display it in the README automatically.  
+
+Let me know if you need any modifications! 🚀🔥
+
+
+
+
