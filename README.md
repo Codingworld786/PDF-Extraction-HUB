@@ -88,8 +88,6 @@ We compare speed, accuracy, and robustness of different PDF extraction libraries
 💡 Contributing
 Contributions are welcome! Feel free to open issues, suggest improvements, or add new PDF parsing tools.
 
-📜 License
-This project is licensed under the MIT License.
 
 ⭐ Star This Repository!
 If you find this useful, don't forget to ⭐ star this repo to support the project!
